@@ -1,0 +1,97 @@
+{
+  "source": "原始SketchUp展具提取的GLB，仅提取结构边线；未修改源模型",
+  "style": "black background, white structural edges, monochrome antialiasing",
+  "animation": {
+    "rotationDegrees": 360,
+    "assembly": "从分离板件逐件归位，短暂保持整体，再拆开循环",
+    "frameDurationMs": 40,
+    "loop": true,
+    "playbackSpeedComparedToOriginal": 2
+  },
+  "gifs": [
+    {
+      "unit": "prototype",
+      "file": "00-prototype.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 4,
+      "sourceModel": "assets/exhibits/00-prototype.glb",
+      "sourceSha256": "94586881009a62c4f642f49304e52ae0e125533257543a0642350d5a1adbdeef",
+      "gifSha256": "9a341975df30c278dd52a2348bc5debdd0e55ff9254a1c56748180a95a9f4dd7",
+      "bytes": 473428
+    },
+    {
+      "unit": "altar",
+      "file": "01-altar.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 12,
+      "sourceModel": "assets/exhibits/01-altar.glb",
+      "sourceSha256": "a6bd2af4c5744413e70ffe4528828f591e8913d211f7b413a795575db167c628",
+      "gifSha256": "4c5899f7b4cffc52d3603426f96f6842b80d620eefd45db048c3fc575664f91a",
+      "bytes": 519159
+    },
+    {
+      "unit": "dining",
+      "file": "02-dining.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 6,
+      "sourceModel": "assets/exhibits/02-dining.glb",
+      "sourceSha256": "136e659004aa52fb25b9620c22dcbc590ee81087ea8cb2bfb3b1b6b6e73dbcb1",
+      "gifSha256": "0b483b256c2ec4e917a9782b2da5708aacc61d78023c637aca497c36b8b3f57a",
+      "bytes": 501487
+    },
+    {
+      "unit": "school",
+      "file": "03-school.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 6,
+      "sourceModel": "assets/exhibits/03-school.glb",
+      "sourceSha256": "112b8bca8fcd409ade3435ad506d27e96c3c11ce48d1c7f5b18f65b2f678d231",
+      "gifSha256": "24c7c58dfc465f74cfbcce82a0062ddb3c9cee6f7387c199896d4c3d5821c5d2",
+      "bytes": 509791
+    },
+    {
+      "unit": "drafting",
+      "file": "04-drafting.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 16,
+      "sourceModel": "assets/exhibits/04-drafting.glb",
+      "sourceSha256": "0aaae44fd8e28a48f7477dc356f95560b63e296881ac1d0b48a7e2688ab611eb",
+      "gifSha256": "d3efcfcd5c6bacdf2ae3dd1577fca2fb3af7762dc8644460ff6904f9e825f4f6",
+      "bytes": 673266
+    },
+    {
+      "unit": "computer",
+      "file": "05-computer.gif",
+      "width": 320,
+      "height": 320,
+      "frames": 128,
+      "durationMs": 5120,
+      "loop": 0,
+      "parts": 23,
+      "sourceModel": "assets/exhibits/05-computer.glb",
+      "sourceSha256": "612272600dd8ec6258fef5ccebfde98a223e420d293086636eab1608bfa423db",
+      "gifSha256": "e1cabc5a29712c8e80a260738019b84a5a67dd077e0b1ac20b06041fcbe65d8e",
+      "bytes": 590175
+    }
+  ]
+}

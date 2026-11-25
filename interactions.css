@@ -1,0 +1,78 @@
+/* Shared control states: black on hover, green on press or selection. */
+:root {
+  --control-hover: #000;
+  --control-selected: #49b248;
+  --control-text: #fff;
+}
+
+/* Keep these color overrides after each page's existing layout and theme. */
+:is(button, a[href], [role="button"], [role="menuitem"],
+    input[type="button"], input[type="submit"], .desktop-icon, .thumb,
+    .dl-file-item, .start-menu-list li, .qq-file-link, .lv-row, #arc-list li):not(:disabled, [aria-disabled="true"], .hotzone, .marker.zero, .mine-cell.open):hover {
+  background-color: var(--control-hover) !important;
+  background-image: none !important;
+  color: var(--control-text) !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+:is(button, a[href], [role="button"], [role="menuitem"],
+    input[type="button"], input[type="submit"], .desktop-icon, .thumb,
+    .dl-file-item, .start-menu-list li, .qq-file-link, .lv-row, #arc-list li):not(:disabled, [aria-disabled="true"], .hotzone, .marker.zero, .mine-cell.open):is(:active, [data-interaction-clicked], .selected, .active, .on, .pressed,
+    .start-button.open, [aria-pressed="true"], [aria-selected="true"],
+    [aria-current="page"], [data-state="on"], [data-state="checked"]) {
+  background-color: var(--control-selected) !important;
+  background-image: none !important;
+  color: var(--control-text) !important;
+  opacity: 1 !important;
+  text-shadow: none !important;
+}
+
+/* Labels and icon containers must not cover the control's state color. */
+:is(button, a[href], [role="button"], [role="menuitem"],
+    .desktop-icon, .thumb, .dl-file-item, .start-menu-list li, .qq-file-link,
+    .lv-row, #arc-list li):not(:disabled, [aria-disabled="true"], .hotzone, .marker.zero, .mine-cell.open):is(:hover, :active, [data-interaction-clicked], .selected, .active, .on, .pressed,
+    .start-button.open, [aria-pressed="true"], [aria-selected="true"],
+    [aria-current="page"], [data-state="on"], [data-state="checked"])
+:where(span, small, strong, em, b, .icon-box, .icon-label, .thumb-label,
+       .dl-file-label, .start-hint, .start-text) {
+  background-color: transparent !important;
+  background-image: none !important;
+  color: inherit !important;
+  text-shadow: none !important;
+}
+
+:is(button, a[href], [role="button"], [role="menuitem"],
+    input[type="button"], input[type="submit"]):focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 3px;
+}
+
+/* The coordinate origin is drawn inside a zero-size button. */
+.marker.zero:hover .sq {
+  background: #000;
+  border-color: #fff;
+}
+.marker.zero:is(:active, [data-interaction-clicked]) .sq {
+  background: var(--control-selected);
+  border-color: var(--control-selected);
+}
+.hotzone:focus-visible { outline-color: #fff; }
+
+/* Card tabs use nested surfaces, rather than a native button background. */
+.card:hover :is(.pop, .body),
+.card:hover .bump::before {
+  background: var(--control-hover);
+  color: var(--control-text);
+}
+.card:hover .bump { color: var(--control-text); }
+.card:is(:active, [data-interaction-clicked]) :is(.pop, .body, .bump.black),
+.card:is(:active, [data-interaction-clicked]) .bump::before {
+  background: var(--control-selected);
+  color: var(--control-text);
+}
+.card:is(:active, [data-interaction-clicked]) .bump { color: var(--control-text); }
+
+/* Keep the sound glyph and retro menu icons visible on filled controls. */
+#sound-btn:is(:hover, :active, [data-interaction-clicked]) svg path { fill: currentColor; }
+.start-menu-list li:is(:active, [data-interaction-clicked]) svg.start-ico { filter: invert(1); }

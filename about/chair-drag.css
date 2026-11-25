@@ -1,0 +1,26 @@
+/* Compact seat palette in the hero's upper-left corner. */
+#stage #chair-bar{inset:18px auto auto max(18px,env(safe-area-inset-left));width:104px;height:auto;padding:0;background:transparent;border:0}
+#chair-bar .chair-strip{grid-template-columns:minmax(0,1fr);align-items:center;gap:6px;width:100%;height:auto;margin:0}
+#chair-bar .chair-sticker{width:100%;height:76px;align-items:center}
+#chair-bar .chair-sticker img{width:96px;max-width:100%;height:76px}
+@media(max-width:700px){#stage #chair-bar{inset:14px auto auto max(12px,env(safe-area-inset-left));width:80px}#chair-bar .chair-strip{gap:4px}#chair-bar .chair-sticker{height:62px}#chair-bar .chair-sticker img{width:76px;height:62px}}
+
+#chair-bar .chair-sticker{pointer-events:auto;cursor:grab;touch-action:none;position:relative;border:0;outline-offset:-5px;-webkit-user-select:none}
+#chair-bar .chair-sticker img{pointer-events:none;transition:opacity .18s}
+#chair-bar .chair-sticker:focus-visible{outline:1px solid #111}
+#chair-bar .chair-sticker[aria-disabled="true"]{cursor:default}
+#chair-bar .chair-sticker.is-dragging{cursor:grabbing}
+#chair-bar .chair-sticker.is-dragging img{opacity:.1}
+#chair-bar .chair-sticker.is-placed img{opacity:.09}
+#chair-bar .chair-sticker.is-placed::after{content:'✓';position:absolute;bottom:7px;left:50%;color:#49b248;font:14px/1 'Courier New',monospace}
+.chair-drag-active,.chair-drag-active *{cursor:grabbing!important}
+.chair-drag-ghost{position:fixed;z-index:90;pointer-events:none;user-select:none;transform-origin:center;will-change:top,left,transform,opacity}
+.chair-drag-ghost img{display:block;width:100%;height:100%;object-fit:contain;image-rendering:pixelated}
+.chair-drag-ghost::after{content:'';position:absolute;inset:0;opacity:0;mask-image:var(--seat-image);mask-size:contain;mask-position:center;mask-repeat:no-repeat}
+.chair-drag-ghost[data-feedback="wrong"]::after{background:#df4141;opacity:.72}
+.chair-drag-ghost[data-feedback="correct"]::after{background:#49b248;opacity:.5}
+
+@media(prefers-reduced-motion:reduce){.chair-drag-ghost{will-change:auto}.chair-sticker img{transition:none}}
+
+/* Announce matching feedback without adding a visible panel to the scene. */
+.chair-drag-announcement{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0;pointer-events:none}

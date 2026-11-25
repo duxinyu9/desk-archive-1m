@@ -1,0 +1,397 @@
+{
+  "sourceFile": "1(2).skp",
+  "sourceSha256": "ccd39210fb8e8b24c8d6f2cecaa0023d5e785f66497ddc633deefea57451e05e",
+  "sourceUnchanged": true,
+  "sourceGroup": "二层空间2｜展具与网格",
+  "units": [
+    {
+      "unit": "prototype",
+      "sourceComponent": "00 一平方米原型桌",
+      "path": "./assets/exhibits/00-prototype.glb",
+      "bytes": 32152,
+      "sha256": "94586881009a62c4f642f49304e52ae0e125533257543a0642350d5a1adbdeef",
+      "faces": 148,
+      "triangles": 520,
+      "nodes": 6,
+      "materials": [
+        {
+          "name": "SketchUp default white",
+          "rgba": [
+            0.95,
+            0.95,
+            0.95,
+            1
+          ]
+        },
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        1,
+        1.056,
+        1
+      ],
+      "boundsMeters": [
+        [
+          -0.5,
+          0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.055999994277954,
+          0.5
+        ]
+      ]
+    },
+    {
+      "unit": "altar",
+      "sourceComponent": "01 祭坛",
+      "path": "./assets/exhibits/01-altar.glb",
+      "bytes": 92748,
+      "sha256": "a6bd2af4c5744413e70ffe4528828f591e8913d211f7b413a795575db167c628",
+      "faces": 366,
+      "triangles": 1632,
+      "nodes": 15,
+      "materials": [
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "SketchUp default white",
+          "rgba": [
+            0.95,
+            0.95,
+            0.95,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        1.375,
+        1.706,
+        1.75
+      ],
+      "boundsMeters": [
+        [
+          -0.5,
+          0,
+          -1.25
+        ],
+        [
+          0.8750000000000022,
+          1.7059999704360962,
+          0.5
+        ]
+      ]
+    },
+    {
+      "unit": "school",
+      "sourceComponent": "03C 课桌｜整板无连梁",
+      "path": "./assets/exhibits/03-school.glb",
+      "bytes": 63140,
+      "sha256": "112b8bca8fcd409ade3435ad506d27e96c3c11ce48d1c7f5b18f65b2f678d231",
+      "faces": 308,
+      "triangles": 1096,
+      "nodes": 8,
+      "materials": [
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "SketchUp default white",
+          "rgba": [
+            0.95,
+            0.95,
+            0.95,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        1.8756,
+        0.781,
+        1
+      ],
+      "boundsMeters": [
+        [
+          -0.0003000000142492354,
+          0,
+          -1
+        ],
+        [
+          1.8753000497817993,
+          0.781000018119812,
+          0
+        ]
+      ]
+    },
+    {
+      "unit": "drafting",
+      "sourceComponent": "04B 绘图桌｜双斜45°｜1500 × 2500 mm",
+      "path": "./assets/exhibits/04-drafting.glb",
+      "bytes": 161484,
+      "sha256": "0aaae44fd8e28a48f7477dc356f95560b63e296881ac1d0b48a7e2688ab611eb",
+      "faces": 799,
+      "triangles": 2944,
+      "nodes": 17,
+      "materials": [
+        {
+          "name": "SketchUp default white",
+          "rgba": [
+            0.95,
+            0.95,
+            0.95,
+            1
+          ]
+        },
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        1.59899,
+        1.48776,
+        2.5
+      ],
+      "boundsMeters": [
+        [
+          0.7005025148391724,
+          0,
+          -2.5
+        ],
+        [
+          2.299497365951538,
+          1.4877612590789795,
+          0
+        ]
+      ]
+    },
+    {
+      "unit": "dining",
+      "sourceComponent": "餐桌｜宴席长桌",
+      "path": "./assets/exhibits/02-dining.glb",
+      "bytes": 82072,
+      "sha256": "136e659004aa52fb25b9620c22dcbc590ee81087ea8cb2bfb3b1b6b6e73dbcb1",
+      "faces": 348,
+      "triangles": 1576,
+      "nodes": 8,
+      "materials": [
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "宴席长桌｜白色木板",
+          "rgba": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        3,
+        0.831,
+        1
+      ],
+      "boundsMeters": [
+        [
+          -1.5,
+          0,
+          -0.5
+        ],
+        [
+          1.5,
+          0.8309999704360962,
+          0.5
+        ]
+      ]
+    },
+    {
+      "unit": "desk",
+      "sourceComponent": "05 展板方案｜2000 宽幅双面屏",
+      "path": "./assets/exhibits/05-computer.glb",
+      "bytes": 110100,
+      "sha256": "612272600dd8ec6258fef5ccebfde98a223e420d293086636eab1608bfa423db",
+      "faces": 364,
+      "triangles": 1708,
+      "nodes": 25,
+      "materials": [
+        {
+          "name": "悬空展板｜纯白",
+          "rgba": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "榫头与台面封边绿",
+          "rgba": [
+            0.2901960784313726,
+            0.7137254901960784,
+            0.28627450980392155,
+            1
+          ]
+        },
+        {
+          "name": "占位屏｜炭灰边框",
+          "rgba": [
+            0.1843137254901961,
+            0.19215686274509805,
+            0.19607843137254902,
+            1
+          ]
+        },
+        {
+          "name": "占位屏｜深灰显示面",
+          "rgba": [
+            0.2823529411764706,
+            0.30196078431372547,
+            0.3137254901960784,
+            1
+          ]
+        },
+        {
+          "name": "透明玻璃｜淡蓝灰",
+          "rgba": [
+            0.6588235294117647,
+            0.8117647058823529,
+            0.8352941176470589,
+            0.18999999999999995
+          ]
+        }
+      ],
+      "textures": 0,
+      "hiddenEntitiesSkipped": 0,
+      "dimensionsMeters": [
+        2,
+        2,
+        0.75
+      ],
+      "boundsMeters": [
+        [
+          -1,
+          0,
+          -0.375
+        ],
+        [
+          1,
+          2,
+          0.375
+        ]
+      ]
+    }
+  ],
+  "originalModels": [
+    {
+      "path": "assets/desktop.glb",
+      "sha256": "5ae23944b47381b083dd597e686f0890045d0928f0c54ef10f12c5a788bfa0f7"
+    },
+    {
+      "path": "assets/altar.glb",
+      "sha256": "95cda63e9b260566047736b2564315b2aa91a1134c0e5f64d931bed40d2f67dd"
+    },
+    {
+      "path": "assets/dining-table.glb",
+      "sha256": "ac0296bd13a390ef33d13bc5e10115c5a7a3115b956caf4dd310288f463d19cc"
+    },
+    {
+      "path": "assets/school-desk.glb",
+      "sha256": "3d7afbe7643b6fe958f0e7cb4f20dd98a6327879b7e631547f28051082d6d032"
+    },
+    {
+      "path": "assets/drafting-desk.glb",
+      "sha256": "a74a7c27061f4941ed9dee073271cdf899684ced792f9118b0bc04ead504e95e"
+    }
+  ],
+  "originalPreview": "?models=original"
+}

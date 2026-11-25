@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>桌面坐标系 · 一平方米的文明</title>
+<link rel="stylesheet" href="./style.css?v=5">
+<link rel="stylesheet" href="../interactions.css?v=1">
+<script defer src="../interactions.js?v=1"></script>
+<script defer src="../sfx.js?v=2"></script>
+<link rel="stylesheet" href="../bilingual.css?v=7"><link rel="stylesheet" href="../scrollbars.css?v=1">
+</head>
+<body>
+<header id="top">
+  <div class="brand">
+    <h1>桌面坐标系 <span lang="en">DESK COORDINATES</span></h1>
+    <p>一平方米的文明 · 策展平面导览<br><span lang="en">Civilization in One Square Meter · A Curation of the Desk</span></p>
+  </div>
+  <div class="meta">
+    <div>横轴 X · 代表时期（左古右今）</div>
+    <div>纵轴 Y · 桌面组织关系范围</div>
+    <div>1 格 = 1 ㎡</div>
+  </div>
+</header>
+
+<div id="coordinate-viewport" role="region" tabindex="0" aria-label="桌面坐标图，可横向滚动 / Desk coordinates, scroll horizontally"><main id="plane">
+  <svg id="grid-svg"></svg>
+  <div id="markers"></div>
+  <figure id="assembly-preview" hidden aria-label="展具组装动画">
+    <img id="assembly-gif" width="320" height="320" alt="">
+  </figure>
+  <aside id="reference-preview" hidden aria-label="当前资料大图与关键词">
+    <figure>
+      <div id="reference-media"><img id="reference-image" alt=""></div>
+      <figcaption id="reference-title"></figcaption>
+    </figure>
+    <ul id="reference-keywords" aria-label="资料与展具分类相关的关键词"></ul>
+  </aside>
+  <div id="card" hidden>
+    <img id="card-img" alt="">
+    <div id="card-cap"></div>
+  </div>
+</main></div>
+
+<footer id="hud">
+  <div id="readout">X — · — ｜ Y — · —</div>
+  <div id="hint">移动鼠标读取坐标 · 划过桌面位置弹出该分类资料 · 点击空白处返回</div>
+</footer>
+
+<script src="./data.js"></script>
+<script src="./reference-data.js?v=1"></script>
+<script src="../bilingual-data.js?v=2"></script><script src="./main.js?v=10"></script>
+<script src="../bilingual-ui.js?v=4"></script><script defer src="../text-alignment.js?v=1"></script></body>
+</html>

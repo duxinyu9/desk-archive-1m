@@ -1,0 +1,147 @@
+.bi-zh,.bi-en{display:block}.bi-en{font-family:VT323,'Courier New',monospace;font-weight:400;letter-spacing:0;font-size:1rem;line-height:1.4;margin-top:6px}.bi-inline{display:inline;margin-left:.5em}
+#about-page .intro-copy p .bi-en,#about-page .unit-description p .bi-en,#about-page .method-grid p .bi-en,#about-page .source-list p .bi-en{font-family:'Courier New',monospace;font-size:16px;line-height:1.7;margin-top:12px}
+#about-page .section-heading h2 .bi-en{font-size:24px;line-height:1.3}#about-page .intro-statement>p .bi-en{font-size:21px;line-height:1.5}
+#about-page .section-kicker.pixel{display:block}#about-page .section-kicker.pixel .bi-zh{font-family:SimHei,'Microsoft YaHei',sans-serif;font-size:14px;letter-spacing:0}#about-page .section-kicker.pixel .bi-en{font-size:22px;margin:5px 0 0}
+#about-page .nav-links a,#about-page .hero-return,#about-page .footer-actions a{flex-direction:column;justify-content:center;align-items:flex-start;gap:0}
+#about-page .nav-links a{padding:10px 14px 15px}#about-page .nav-links a .bi-en{margin-top:3px;line-height:1.1}#about-page .about-nav{min-height:78px}#about-page .nav-brand{gap:8px}
+#about-page .hero-link>span:last-child .bi-en{font-size:14px}#about-page .team-name .bi-en{font-size:22px}#about-page .team-role .bi-en{font-size:18px}#about-page .unit-description h4 .bi-en{font-size:14px}
+#about-page .project-facts dd>span .bi-en{font-size:14px}#about-page .space-plan figcaption .bi-en{font-size:16px}html:has(#about-page){scroll-padding-top:96px}
+body:has(#layout) #top nav a,body:has(#layout) #top nav button{line-height:1.05}body:has(#layout) #top nav .bi-zh{font-family:SimHei,'Microsoft YaHei',sans-serif;font-size:12px}body:has(#layout) #top nav .bi-en{font-size:20px;margin-top:2px}
+#vt-desk,#vt-list{min-width:83px;height:auto;min-height:38px;line-height:1}#vt-desk .bi-zh,#vt-list .bi-zh{font:12px/1.2 SimHei,'Microsoft YaHei',sans-serif}#vt-desk .bi-en,#vt-list .bi-en{font-size:19px;margin:0}
+#stage .drag-hint{right:220px!important}#stage .drag-hint .bi-zh{font:12px SimHei,'Microsoft YaHei',sans-serif}#stage .drag-hint .bi-en{font-size:18px;margin:0}
+#reset-view .bi-zh,#reset .bi-zh{font:12px SimHei,'Microsoft YaHei',sans-serif}#reset-view .bi-en,#reset .bi-en{font-size:18px;margin:0}
+.lv-row{min-height:72px!important;align-items:center!important}.lv-row .ltitle{white-space:normal!important;overflow:visible!important;line-height:1.4!important;padding:8px 0;min-width:0}
+.lv-row .ltitle .bi-zh,.lv-row .ltitle .bi-en{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.lv-row .ltitle .bi-en{font-size:17px;margin-top:4px}.lv-row .lfield{white-space:normal!important;font-size:14px!important;line-height:1.35}.lv-row .lfield .bi-en{font-size:14px}
+.lv-cols{line-height:1.35!important}.lv-cols .bi-en{font-size:16px;margin-top:2px}.lv-cols .bi-zh{font:12px SimHei,'Microsoft YaHei',sans-serif}.lv-index-caption .px{font-size:22px}.lv-sec .cn{font-size:15px!important}.lv-search-clear{line-height:1.2!important;min-width:70px}.lv-search-clear .bi-en{margin:0}
+#list-view{padding-top:64px!important}.lv-index-tools{top:54px}.lv-index-caption{margin-right:0;flex-wrap:wrap;white-space:normal}.lv-search-form{flex-wrap:wrap}.lv-search-field{min-width:230px}.lv-search-status{font-size:13px}.lv-search-clear{font-size:13px;white-space:normal}.lv-search-close{margin-left:auto}#top .brand .bi-zh{font:12px SimHei,'Microsoft YaHei',sans-serif}#top .brand .bi-en{font-size:20px;line-height:1;margin-top:2px}
+#obj-name .bi-en{font-size:22px;line-height:1.3;margin-top:10px}#obj-desc{white-space:pre-line}#obj-desc .bi-en{font-family:'Courier New',monospace;font-size:15px;line-height:1.65;margin-top:15px}
+#obj-meta td:first-child .bi-zh{font:13px SimHei,'Microsoft YaHei',sans-serif}#obj-meta td:first-child .bi-en{font-size:16px;margin-top:2px}#obj-meta td:last-child .bi-en{font-size:16px;margin-top:4px}
+body:has(#plane) #top{min-height:90px}body:has(#plane) #plane{top:0;min-height:0}body:has(#plane) #hud{min-height:68px;height:auto;align-items:center}
+body:has(#plane) #hint{max-width:52%;text-align:right;font-size:11px}body:has(#plane) #hint .bi-en{font-size:12px}body:has(#plane) .meta{font-size:10px;line-height:1.3}body:has(#plane) .meta .bi-en{font-size:12px;margin:0}
+.axis-en{font-family:VT323,monospace;font-size:13px;letter-spacing:0}.era-label .axis-en{font-size:12px}
+#reference-title .bi-en{font-size:15px;line-height:1.35}#reference-keywords li .bi-en{font-size:15px;line-height:1.25;margin-top:3px}
+#reference-title{display:block;-webkit-line-clamp:unset;overflow:visible;font-size:13px}#reference-preview{max-height:calc(100% - 28px);overflow:auto;scrollbar-width:thin}#reference-keywords{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;font-size:13px}
+body:has(#plane) #assembly-preview{max-width:128px}
+body:has(#layout) #top .bi-label>.bi-zh{font:14px/1.2 SimHei,'Microsoft YaHei',sans-serif}body:has(#layout) #top .bi-label>.bi-en{font:20px/1.1 VT323,monospace;margin-top:1px}
+body:has(#plane) .brand h1>span{display:inline;font-size:13px}
+#obj-num{white-space:nowrap}#obj-header{font-size:14px}
+@container(max-width:700px){#stage .drag-hint{display:none!important}.lv-row .ltitle .bi-en{font-size:16px}}
+@media(max-width:700px){
+ #about-page .about-nav{padding:0 10px;gap:7px}#about-page .nav-links a{padding:8px 12px 13px;font-size:14px}#about-page .nav-brand span:last-child{display:inline}
+ #about-page .nav-brand .bi-zh{font-size:14px}#about-page .nav-brand .bi-en{font-size:18px}#about-page .intro-statement>p .bi-en{font-size:16px}#about-page .section-heading h2 .bi-en{font-size:21px}
+ #about-page .hero-return{right:20px}#about-page .hero-link{left:20px;max-width:calc(100% - 155px)}#about-page .hero-link .pixel{display:none}#about-page .hero-link .bi-en{font-size:12px!important}
+ body:has(#plane) #top{min-height:110px}body:has(#plane) #plane{top:0}.meta{max-width:44%}
+}
+
+/* Tighter bilingual typography, using the existing typefaces. */
+.bi-zh,.bi-en{text-align:left;text-indent:0;margin-inline-start:0;padding-inline-start:0}
+.bi-en,[lang="en"]{letter-spacing:-.015em;word-spacing:normal}
+.bi-en{line-height:1.25;margin-top:3px}
+#about-page .intro-copy p .bi-en,#about-page .unit-description p .bi-en,#about-page .method-grid p .bi-en,#about-page .source-list p .bi-en{line-height:1.45;margin-top:6px}
+#about-page .intro-statement>p .bi-en{line-height:1.3;margin-top:6px}
+#about-page .section-heading h2 .bi-en{line-height:1.2;margin-top:6px}
+#about-page .section-kicker.pixel .bi-en{line-height:1.15;margin-top:3px}
+#about-content .pixel,.about-nav .pixel,.page-footer .pixel{letter-spacing:.015em}
+#about-page .unit-title .pixel{letter-spacing:.015em;margin-left:0}
+#about-page .team-name .bi-en,#about-page .team-role .bi-en{line-height:1.2;margin-top:3px}
+#about-page .project-facts .bi-en{line-height:1.25;margin-top:3px}
+#about-page .meter-square small{align-self:stretch;padding-inline:8px}
+#left .intro-copy-en{line-height:1.5;letter-spacing:-.015em;text-align:left;margin-top:24px}
+#left .intro-copy-en p{line-height:inherit;letter-spacing:inherit;text-indent:0;margin-inline-start:0}
+.lv-row{min-height:64px!important}
+.lv-row .ltitle{line-height:1.3!important;text-align:left;padding-block:6px}
+.lv-row .ltitle .bi-en{line-height:1.2;margin-top:3px}
+.lv-row .lfield{line-height:1.25;text-align:left}
+.lv-row .lfield .bi-en{line-height:1.2;margin-top:3px}
+#list-view .lv-cols>span:last-child{text-align:left!important}
+#obj-name .bi-en{line-height:1.2;margin-top:6px}
+#obj-desc .bi-en{line-height:1.45;margin-top:7px}
+#obj-meta .bi-en{line-height:1.2}
+#carousel .cell .label small{display:block;letter-spacing:.035em;line-height:1.15;margin:3px 0 0;text-align:left}
+#layout{grid-template-rows:48px minmax(0,1fr) 124px}
+.lv-index-caption .px,.lv-cols,.lv-row .lid,#obj-num,.cell .num{letter-spacing:.02em}
+body:has(#plane) .meta>div,body:has(#plane) #hint{text-align:left}
+body:has(#plane) .brand h1>span{letter-spacing:.04em}
+body:has(#plane) .meta .bi-en{line-height:1.2}
+#reference-title .bi-en{line-height:1.2;margin-top:4px}
+#reference-keywords li .bi-en{line-height:1.2;margin-top:3px}
+
+/* Give bilingual text independent space without changing the typefaces. */
+#about-page .about-nav{background:#fff}
+#about-page .section-heading{flex-wrap:wrap;align-items:flex-end}
+#about-page .section-heading>div{min-width:0;flex:1 1 360px}
+#about-page .section-heading>p{flex:0 1 460px;max-width:100%}
+#about-page .unit-description,#about-page .source-list dd{min-width:0}
+#about-page .unit-description h4{max-width:100%}
+#about-page .bi-en{overflow-wrap:break-word}
+#about-page .space-plan{overflow-x:auto}
+#about-page .space-plan img{min-width:1000px}
+#top .brand .bi-label{display:inline-block;line-height:1.1}
+.lv-row,.lv-sec,.lv-cols{width:calc(100% - var(--lv-wave-space,130px))}
+@container(max-width:650px){
+ .lv-row,.lv-cols{grid-template-columns:56px minmax(0,1fr) 92px;gap:10px}
+}
+@container(max-width:420px){
+ .lv-row,.lv-cols{grid-template-columns:52px minmax(0,1fr) 74px;gap:8px}
+}
+body:has(#plane) #hud{flex-wrap:wrap;gap:8px 20px}
+body:has(#plane) #readout{flex:1 1 500px;min-width:0;white-space:normal;line-height:1.4;overflow-wrap:break-word}
+body:has(#plane) #hint{flex:0 1 480px;max-width:100%;line-height:1.4}
+@media(max-width:960px){
+ #carousel{grid-template-columns:44px repeat(5,minmax(108px,1fr)) 44px;overflow-x:auto;overflow-y:hidden;scrollbar-width:thin;overscroll-behavior-x:contain}
+ #carousel .cell{min-width:0}
+ #list-view{padding-inline:12px}
+}
+@media(max-width:700px){
+ #about-page .section-heading>div,#about-page .section-heading>p{flex-basis:100%}
+}
+
+/* English secondary copy matches the original library introduction. */
+:root{--english-copy-font:'Courier New',monospace;--english-copy-size:12px;--english-copy-leading:1.5;--english-copy-tracking:-.015em}
+body .bi-en,body [lang="en"],body .axis-en,
+#about-page .unit-title>.pixel,
+#carousel .cell .label small,
+#list-view .lv-letter,#list-view .lv-letter-heading,#list-view .lid,
+#obj-num,body:has(#plane) #readout{
+ font-family:var(--english-copy-font)!important;
+ font-size:var(--english-copy-size)!important;
+ font-weight:400!important;
+ font-style:normal;
+ line-height:var(--english-copy-leading)!important;
+ letter-spacing:var(--english-copy-tracking)!important;
+ word-spacing:normal;
+}
+/* Keep the Chinese and English left edges aligned. */
+.bi-en{text-align:left;text-indent:0;padding-inline-start:0;margin-inline-start:0}
+/* Long unit names wrap within the existing carousel cells. */
+#carousel .cell .label small{white-space:normal;overflow-wrap:normal}
+@media(max-width:960px){#carousel{grid-template-columns:44px repeat(5,minmax(140px,1fr)) 44px}}
+
+/* Account for glyph side bearings while keeping each content column fixed. */
+body [data-align-start]{text-indent:var(--start-indent,0px)!important;text-align:left}
+#layout .lv-row,#layout .lv-cols,#layout .lv-sec,#layout .lv-letter-heading,#layout .lv-search-empty{padding-inline:0}
+#layout .lv-index-tools{margin-bottom:64px}
+#layout #obj-meta td{padding-left:0}
+body:has(#plane) .brand h1>span[lang="en"]{display:block;margin-left:0;margin-top:4px}
+body:has(#plane) #assembly-preview{max-width:96px}
+body:has(#plane) #coordinate-viewport{display:flex;flex:1;min-height:0;min-width:0;overflow:hidden}
+@media(max-width:760px){body:has(#plane) #coordinate-viewport{overflow-x:auto}body:has(#plane) #plane{flex:none;width:800px;height:100%}body:has(#plane) #reference-preview{position:fixed;top:136px;right:12px;max-height:calc(100svh - 240px)}}
+
+/* Translations follow their heading level; body translations retain the base size. */
+body .bi-en:not(.bi-inline){margin-top:2px!important}
+#topbar .bi-en{margin-top:0!important}
+#about-page .section-heading h2>.bi-zh{line-height:1.15}
+#about-page .section-heading h2>.bi-en{font-size:16px!important;font-weight:700!important;line-height:1.35!important;color:var(--ink)}
+#about-page .intro-statement>p>.bi-en{font-size:14px!important;font-weight:700!important;line-height:1.35!important}
+#about-page .intro-copy .lead>.bi-en{font-size:13px!important;font-weight:700!important;line-height:1.35!important}
+#about-page .unit-title h3{line-height:1.2;margin-bottom:4px}
+#about-page .unit-title>.pixel{font-size:14px!important;font-weight:700!important;line-height:1.35!important}
+#about-page .unit-description h4>.bi-zh{line-height:1.35}
+#about-page .unit-description h4>.bi-en{font-size:12px!important;font-weight:400!important;line-height:1.35!important;color:#555}
+#about-page .method-grid h3>.bi-en{font-size:14px!important;font-weight:700!important;line-height:1.35!important;color:var(--ink)}
+#about-page .team-name>.bi-en,#about-page .source-list dt>.bi-en{font-size:13px!important;font-weight:700!important;line-height:1.35!important;color:var(--ink)}
+#about-page .project-facts dt>.bi-en{font-weight:700!important;color:var(--ink)}
+#layout #obj-name>.bi-en{font-size:14px!important;font-weight:700!important;line-height:1.35!important}
+#layout .lv-row .ltitle>.bi-en{font-weight:700!important}
+body:has(#plane) .brand h1>span[lang="en"]{font-size:13px!important;font-weight:700!important;line-height:1.35!important}
+body:has(#plane) #reference-title>.bi-en{font-size:13px!important;font-weight:700!important;line-height:1.35!important}

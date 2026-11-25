@@ -1,0 +1,56 @@
+{
+  "sourceTable": "02-dining.glb",
+  "sourceTableSha256": "136e659004aa52fb25b9620c22dcbc590ee81087ea8cb2bfb3b1b6b6e73dbcb1",
+  "reference": [
+    "屏幕截图 2026-11-18 225007.png",
+    "屏幕截图 2026-11-18 225000.png"
+  ],
+  "objects": [
+    {
+      "code": "02A",
+      "name": "一副碗筷",
+      "planCoordinates": [
+        -7.25,
+        5.5
+      ],
+      "localPositionMeters": [
+        -1.0,
+        0.8314999704360961,
+        -0.25
+      ]
+    },
+    {
+      "code": "02B",
+      "name": "一只公用浅盘",
+      "planCoordinates": [
+        -5.25,
+        5.5
+      ],
+      "localPositionMeters": [
+        0.0,
+        0.8314999704360961,
+        -0.25
+      ]
+    },
+    {
+      "code": "02C",
+      "name": "两只相对的杯子",
+      "planCoordinates": [
+        -3.25,
+        5.5
+      ],
+      "localPositionMeters": [
+        1.0,
+        0.8314999704360961,
+        -0.25
+      ]
+    }
+  ],
+  "placementMapping": "相对于02B，X每2个图示坐标单位对应餐桌上1米；共用Y=+5.5，对应桌面后半侧Z=-0.25m。",
+  "dimensionsNote": "器物尺寸为便于网站预览的近似建模，位置依据用户平面示意。",
+  "originalTableGeometryPreserved": true,
+  "output": "02-dining-set.glb",
+  "outputSha256": "fb9ca38906863fe65bd2a9c2ac2840fc4e504652b6895611f127970182ae8610",
+  "bytes": 257608,
+  "addedMeshes": 8
+}

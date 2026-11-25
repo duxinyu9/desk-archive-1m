@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="256" viewBox="0 0 480 256" role="img" aria-labelledby="identity-title identity-description">
+ <title id="identity-title">1M⁺ 一平方米的文明</title>
+ <desc id="identity-description">几何字标与绿色加号，方框中的中文标题，下方英文 CIVILIZATION IN / ONE SQUARE METER；全部左对齐。</desc>
+ <g fill="#000">
+  <path d="M0 23 40 12 59 0H82V74H51V23L0 37Z"/>
+  <path d="M106 0H149L232 60 315 0H358V74H323V19L245 74H220L141 19V74H106Z"/>
+ </g>
+ <path fill="#49b248" d="M390 5H402V18H415V30H402V43H390V30H377V18H390Z"/>
+ <rect x="1" y="91" width="478" height="75" fill="none" stroke="#000" stroke-width="2"/>
+ <text x="12" y="149" fill="#000" font-family="SimHei,黑体,Microsoft YaHei,sans-serif" font-size="62" font-weight="700" textLength="456" lengthAdjust="spacingAndGlyphs">一平方米的文明</text>
+ <g fill="#000" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="400">
+  <text x="0" y="210">CIVILIZATION IN</text>
+  <text x="0" y="252" textLength="480" lengthAdjust="spacingAndGlyphs">ONE SQUARE METER</text>
+ </g>
+</svg>

@@ -1,0 +1,301 @@
+{
+  "sourceFile": "1(2).skp",
+  "sourceSha256": "ccd39210fb8e8b24c8d6f2cecaa0023d5e785f66497ddc633deefea57451e05e",
+  "unitCount": 6,
+  "placement": "Original component transforms in exhibition-local coordinates",
+  "units": [
+    {
+      "unit": "prototype",
+      "id": "00",
+      "cn": "1㎡原型桌",
+      "en": "PROTOTYPE",
+      "theme": "尺度参照",
+      "file": "00-prototype.glb",
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0.5000000000000018,
+        1
+      ],
+      "sourceComponent": "00 一平方米原型桌",
+      "sha256": "94586881009a62c4f642f49304e52ae0e125533257543a0642350d5a1adbdeef"
+    },
+    {
+      "unit": "altar",
+      "id": "01",
+      "cn": "祭坛",
+      "en": "ALTAR",
+      "theme": "人群共望",
+      "file": "01-altar.glb",
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -4.2500000000000036,
+        0,
+        2.500000000000009,
+        1
+      ],
+      "sourceComponent": "01 祭坛",
+      "sha256": "a6bd2af4c5744413e70ffe4528828f591e8913d211f7b413a795575db167c628"
+    },
+    {
+      "unit": "dining",
+      "id": "02",
+      "cn": "餐桌",
+      "en": "DINING TABLE",
+      "theme": "各有其席",
+      "file": "02-dining.glb",
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -2.6250000000000093,
+        0,
+        -2.249999999999985,
+        1
+      ],
+      "sourceComponent": "餐桌｜宴席长桌",
+      "sha256": "136e659004aa52fb25b9620c22dcbc590ee81087ea8cb2bfb3b1b6b6e73dbcb1"
+    },
+    {
+      "unit": "school",
+      "id": "03",
+      "cn": "课桌",
+      "en": "SCHOOL DESK",
+      "theme": "集体规则",
+      "file": "03-school.glb",
+      "matrix": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        3.5000000000000124,
+        1
+      ],
+      "sourceComponent": "03C 课桌｜整板无连梁",
+      "sha256": "112b8bca8fcd409ade3435ad506d27e96c3c11ce48d1c7f5b18f65b2f678d231"
+    },
+    {
+      "unit": "drafting",
+      "id": "04",
+      "cn": "绘图桌",
+      "en": "DRAWING TABLE",
+      "theme": "组织协作",
+      "file": "04-drafting.glb",
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.9999999999999956,
+        0,
+        3.0000000000000107,
+        1
+      ],
+      "sourceComponent": "04B 绘图桌｜双斜45°｜1500 × 2500 mm",
+      "sha256": "0aaae44fd8e28a48f7477dc356f95560b63e296881ac1d0b48a7e2688ab611eb"
+    },
+    {
+      "unit": "desk",
+      "id": "05",
+      "cn": "电脑桌",
+      "en": "COMPUTER DESK",
+      "theme": "关系边界",
+      "file": "05-computer.glb",
+      "matrix": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        3.7499999999999902,
+        0,
+        -1.5000000000000053,
+        1
+      ],
+      "sourceComponent": "05 展板方案｜2000 宽幅双面屏",
+      "sha256": "612272600dd8ec6258fef5ccebfde98a223e420d293086636eab1608bfa423db"
+    }
+  ],
+  "camera": {
+    "defaultZoom": 2.3,
+    "manualControls": false,
+    "fixedElevation": true
+  },
+  "environment": "white",
+  "motion": {
+    "pivot": "prototype",
+    "secondsPerOrbit": 120,
+    "resumeDelayMs": 2200
+  },
+  "floor": "fine-translucent-gray-grid",
+  "grid": {
+    "color": "#8c8c8c",
+    "opacity": 0.38,
+    "antialiased": true
+  },
+  "chairBar": {
+    "sourceSha256": "ccd39210fb8e8b24c8d6f2cecaa0023d5e785f66497ddc633deefea57451e05e",
+    "sourceGroup": "二层空间2｜展具与网格",
+    "userReferenceImage": "56c2a04218edce06044434efc8e7778d.png",
+    "selectedBy": "User red labels 1–5",
+    "chairCount": 5,
+    "distinctModels": 5,
+    "sort": "height-descending",
+    "commonScale": true,
+    "chairs": [
+      {
+        "sourceMark": 1,
+        "sourceGroupIndex": 1,
+        "name": "图中1号｜750方形中展台",
+        "key": "marked-stool-1",
+        "heightMM": 862,
+        "widthMM": 750,
+        "depthMM": 750,
+        "sourcePath": "二层空间2｜展具与网格 / 01 祭坛 / 祭坛｜十字插接结构 / 矮展台3块板＋中展台玻璃",
+        "sourceParts": [
+          "矮展台｜01 台面｜中央十字穿槽",
+          "矮展台｜02 支撑 A｜上开槽、一体穿榫",
+          "矮展台｜03 支撑 B｜下开槽、一体穿榫",
+          "中展台玻璃"
+        ]
+      },
+      {
+        "sourceMark": 2,
+        "sourceGroupIndex": 2,
+        "name": "图中2号｜500方形低展台",
+        "key": "marked-stool-2",
+        "heightMM": 470,
+        "widthMM": 500,
+        "depthMM": 500,
+        "sourcePath": "二层空间2｜展具与网格 / 01 祭坛 / 低展台｜500 × 500 × 450 mm",
+        "sourceParts": [
+          "低展台｜500 × 500 × 450 mm"
+        ]
+      },
+      {
+        "sourceMark": 3,
+        "sourceGroupIndex": 3,
+        "name": "图中3号｜375方凳",
+        "key": "marked-stool-3",
+        "heightMM": 470,
+        "widthMM": 375,
+        "depthMM": 375,
+        "sourcePath": "二层空间2｜展具与网格 / 凳子1｜375 × 375 × 450 mm",
+        "sourceParts": [
+          "凳子1｜375 × 375 × 450 mm｜3 × 3 格"
+        ]
+      },
+      {
+        "sourceMark": 4,
+        "sourceGroupIndex": 4,
+        "name": "图中4号｜250方凳",
+        "key": "marked-stool-4",
+        "heightMM": 470,
+        "widthMM": 250,
+        "depthMM": 250,
+        "sourcePath": "二层空间2｜展具与网格 / 凳子1｜250 × 250 × 450 mm",
+        "sourceParts": [
+          "凳子1｜250 × 250 × 450 mm"
+        ]
+      },
+      {
+        "sourceMark": 5,
+        "sourceGroupIndex": 5,
+        "name": "图中5号｜500低方凳",
+        "key": "marked-stool-5",
+        "heightMM": 370,
+        "widthMM": 500,
+        "depthMM": 500,
+        "sourcePath": "二层空间2｜展具与网格 / 凳子2｜500 × 500 × 350 mm",
+        "sourceParts": [
+          "凳子2｜500 × 500 × 350 mm"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "key": "marked-stool-1",
+        "sourceModelSha256": "4b3fd07b44ebea526909b7deee1a0a303b5d2de23815c95563e8a822686847a6",
+        "imageSha256": "28a578f1f29a9d0fd6baba9a698255bbc20638901ae972728a10560328a385e8"
+      },
+      {
+        "key": "marked-stool-2",
+        "sourceModelSha256": "bbc27c32dd7bd830f380577fb8545f2dc270177a447bc852dd1b4ee40316246f",
+        "imageSha256": "ffa76214a7d34f2643ec3da54f61f62a7a2aad6f6ab068f1373e56df807242d9"
+      },
+      {
+        "key": "marked-stool-3",
+        "sourceModelSha256": "2ae93d2ffa615ad75c51031e1d7e8c974439e0d14726ab6340bbe88abeb1b6be",
+        "imageSha256": "b53288d7230f9340030ed3a47949fae3163a51eacba86274befcd5283f1eafc3"
+      },
+      {
+        "key": "marked-stool-4",
+        "sourceModelSha256": "a6f75de3d5250025ce327670a75fb32725e6115f64d8a68ad72dc947caf27998",
+        "imageSha256": "71b6e553a3180c08813c3d64e9d90a1a6af47e086892a900c1cd1ad88b754aa3"
+      },
+      {
+        "key": "marked-stool-5",
+        "sourceModelSha256": "b200b90af9e41a2b36b4709df5780b3909c57523daa0c8ce01c516ba118cf87f",
+        "imageSha256": "b7bfd93f94e5bac110b94ac60b344c8ba9bea771b777125437bf6ede28f55373"
+      }
+    ]
+  },
+  "presentation": "Full-window interactive WebGL scene, white environment, central prototype and five themed exhibits; fixed-view automatic orbit about the prototype; translucent strip of five user-marked source objects; fine translucent light-gray unbounded grid floor"
+}

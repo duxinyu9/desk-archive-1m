@@ -1,0 +1,11 @@
+/* Shared project title, drawn as a scalable mark. */
+.project-identity{display:block;max-width:100%;margin:0;padding:0;line-height:0;text-align:left}
+.project-identity>img{display:block;width:100%;height:auto;max-width:100%}
+.project-identity>img{display:block;width:100%;height:auto;max-width:100%}
+.project h1.project-identity{width:min(100%,720px);margin:44px 0 60px;white-space:normal}
+@media(max-width:700px){.project h1.project-identity{margin:28px 0 38px}}
+.project-identity img{display:block;width:100%;height:auto;max-width:100%;image-rendering:auto}
+#left .project-identity{width:100%}
+.project .project-identity{width:min(100%,720px);margin:40px 0 60px;white-space:normal}
+.page-footer>.project-identity{width:260px;flex:0 1 260px}
+@media(max-width:700px){.project .project-identity{margin:28px 0 38px}.page-footer{flex-direction:column;align-items:flex-start}.page-footer>.project-identity{width:min(100%,260px);flex-basis:auto}}

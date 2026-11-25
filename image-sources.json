@@ -1,0 +1,809 @@
+{
+  "description": "本次为原缺图条目补充的网络配图。书封表示作品，绘画和纪录片剧照表示相关场景；原有资料文字未改动。",
+  "retrievedOn": "2026-11-18",
+  "filledRecords": 51,
+  "imageFiles": 50,
+  "images": [
+    {
+      "ids": [
+        "A-001",
+        "A-002"
+      ],
+      "work": "红楼梦",
+      "kind": "书封",
+      "caption": "《红楼梦》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-001.jpg",
+      "sourcePage": "https://www.guoxuemeng.com/gushuji/459181.html",
+      "sourceTitle": "红楼梦([清]曹雪芹、[清]高鹗  著；黄渡人  校)简介、价格-国学子部书籍-国学梦",
+      "imageUrl": "https://www.guoxuemeng.com/files/img/1912/1J01R142-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "2954f22ce827d9fa2de93352a1e615ea954507e9ca66b3c81c13bcf7bccc9ff4",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-003"
+      ],
+      "work": "金瓶梅",
+      "kind": "书封",
+      "caption": "《金瓶梅》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-003.jpg",
+      "sourcePage": "https://www.jiemian.com/article/932430.html",
+      "sourceTitle": "“禁书”《金瓶梅》漫长的脱敏之旅|界面新闻 · 文化",
+      "imageUrl": "https://img.jiemian.com/101/original/20161101/147793053147527400.jpg",
+      "width": 640,
+      "height": 884,
+      "sha256": "dc202c90bc29d856f05c7c171d4807903210116dd8fccb4a724e3f18c9c7fc8e",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-004"
+      ],
+      "work": "儒林外史",
+      "kind": "书封",
+      "caption": "《儒林外史》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-004.png",
+      "sourcePage": "https://baike.so.com/gallery/list?eid=5374411&ghid=first&pic_idx=1&sid=10566076",
+      "sourceTitle": "儒林外史图册_360百科",
+      "imageUrl": "https://so1.360tres.com/t013432021c393b3a8f.png",
+      "width": 500,
+      "height": 500,
+      "sha256": "c1028c280ec334286d521b869bff4798fff5f93efb8658f8c15b260287447202",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-005"
+      ],
+      "work": "阿Q正传",
+      "kind": "书封",
+      "caption": "《阿Q正传》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-005.jpg",
+      "sourcePage": "https://books.apple.com/tw/book/%E9%98%BFq%E6%AD%A3%E5%82%B3/id887371775",
+      "sourceTitle": "‎Apple Books 上魯迅的《阿Q正傳》",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/57/0a/77/570a7728-5b12-23be-53f3-f777f13181c2/coverArt.0d4fbd.jpg/1200x900wy.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "db54b38ecd56724263c86db7b38065401b4134550ea7e153441381757ae55908",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-006"
+      ],
+      "work": "祝福",
+      "kind": "书封",
+      "caption": "《祝福》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-006.jpg",
+      "sourcePage": "https://www.runningls.com/product/10109653197555",
+      "sourceTitle": "祝福鲁迅全集作品正版经典原著杂文集散文集小学生书籍阅读青少年 祝福-京东-618/双十一/双11-京东折扣隐藏大额优惠券",
+      "imageUrl": "https://img14.360buyimg.com/pop/jfs/t1/226087/8/19820/117507/666e494fFba935676/363ed6c45b1955a9.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "f2115605b66e85de31499e123f133e5dd4c873740ed560b526b098514308bb46",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-007"
+      ],
+      "work": "边城",
+      "kind": "书封",
+      "caption": "《边城》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-007.jpg",
+      "sourcePage": "https://jinchang.chinagscourt.gov.cn/Wap/Show/99028",
+      "sourceTitle": "“品经典”读书分享之177——读《边城》有感",
+      "imageUrl": "https://statics.chinagscourt.gov.cn/upload/image/20250219/6387557526394606623785.png",
+      "width": 450,
+      "height": 450,
+      "sha256": "34c755ce1bbf4f91001ad800a63d8e447e1ba771092ed7e24762ec77bacd6838",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-008"
+      ],
+      "work": "骆驼祥子",
+      "kind": "书封",
+      "caption": "《骆驼祥子》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-008.jpg",
+      "sourcePage": "https://zhangye.chinagscourt.gov.cn/Show/98456",
+      "sourceTitle": "“阅经典 品书香”本周推荐书目---《骆驼祥子》 - 张掖法院网 - 张掖市中级人民法院",
+      "imageUrl": "https://statics.chinagscourt.gov.cn/upload/image/20250506/6388212080414950098204.png",
+      "width": 535,
+      "height": 715,
+      "sha256": "4aa22569c4468700855b5d396936ba85b7789e09e1c7e565c690ba2159b450be",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-009"
+      ],
+      "work": "茶馆",
+      "kind": "书封",
+      "caption": "《茶馆》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-009.jpg",
+      "sourcePage": "https://wulolife.com/products/%E8%8C%B6%E9%A6%86-%E4%BD%9C%E8%80%85-%E8%80%81%E8%88%8D-%E5%87%BA%E7%89%88%E7%A4%BE-%E5%8D%97%E6%B5%B7%E5%87%BA%E7%89%88%E5%85%AC%E5%8F%B8-%E7%83%AD%E9%97%A8%E4%B8%AD%E5%9B%BD%E6%88%8F%E5%89%A7%E5%9B%BE%E4%B9%A6%E8%B1%86%E7%93%A3%E6%8E%92%E8%A1%8C%E7%89%88-no-1",
+      "sourceTitle": "– WULOLIFE",
+      "imageUrl": "https://wulolife.com/cdn/shop/products/s33322796.jpg?v=1673963941",
+      "width": 594,
+      "height": 605,
+      "sha256": "62d16466212c03c208cb546a64fd4f187dd70d42913975ecab29f552f37ce6da",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-010"
+      ],
+      "work": "围城",
+      "kind": "书封",
+      "caption": "《围城》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-010.jpg",
+      "sourcePage": "https://lib.bbgu.edu.cn/info/1014/6147.htm",
+      "sourceTitle": "好书推荐 2026年第1期-北部湾大学图书馆",
+      "imageUrl": "https://lib.bbgu.edu.cn/__local/F/6B/13/C836BC4172FB5E10FB3196578BA_0282C6B0_F000.jpeg",
+      "width": 800,
+      "height": 800,
+      "sha256": "0daaaf5dc30841526df597891f6ad26393cca1d6a11348e8e09ef5fe81186780",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-011"
+      ],
+      "work": "活着",
+      "kind": "书封",
+      "caption": "《活着》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-011.jpg",
+      "sourcePage": "https://item.kongfz.com/book/69622852.html",
+      "sourceTitle": "孔夫子旧书网",
+      "imageUrl": "https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/0/ce16/ce16ed827dde3288222fa763e3c6a8f7_0_0_0_0.jpg",
+      "width": 576,
+      "height": 800,
+      "sha256": "54e643dff8432fa67688331c214536e9466d1e5a12325638b5ffe2a8369a7638",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-012"
+      ],
+      "work": "许三观卖血记",
+      "kind": "书封",
+      "caption": "《许三观卖血记》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-012.jpg",
+      "sourcePage": "https://www.hnjs.edu.cn/tsg/info/1422/4832.htm",
+      "sourceTitle": "许三观卖血记-图书馆",
+      "imageUrl": "https://www.hnjs.edu.cn/__local/B/05/F0/2B6DAEEDEAA1A3E607F101F9878_4D3C5ECF_BDE8.jpg?e=.jpg",
+      "width": 384,
+      "height": 612,
+      "sha256": "146a55f5f00ec14005f3c97fdfe077cb7c18418ee605f5ba0df6589e34f431fd",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-013"
+      ],
+      "work": "长恨歌",
+      "kind": "书封",
+      "caption": "《长恨歌》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-013.jpg",
+      "sourcePage": "https://ku.artnchina.com/page/opus/literature/literature.html?id=b7ddc5db4f174f9f8858b2318d079320",
+      "sourceTitle": "中华文艺资源数据库",
+      "imageUrl": "https://fujian.artnchina.com/clfac/upload/b3665265b3e80c849b137c75e860a7fd.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "6a1a2cff23f04bc6822cb4b896dca4316fa7dd2113a6f92b94d6aaa5e82571bb",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-014"
+      ],
+      "work": "受戒",
+      "kind": "书封",
+      "caption": "《受戒》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-014.webp",
+      "sourcePage": "https://www.books.com.tw/products/CN17902192",
+      "sourceTitle": "博客來-受戒",
+      "imageUrl": "https://im1.book.com.tw/image/getImage?h=600&i=https%3A%2F%2Fwww.books.com.tw%2Fimg%2FCN1%2F790%2F21%2FCN17902192.jpg&v=68efea9ak&w=1146",
+      "width": 1146,
+      "height": 600,
+      "sha256": "e0be91593839d6c6c2a4e26bb244d8e02afcaf1dd1deab9068a3f7392008141d",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-015"
+      ],
+      "work": "台北人",
+      "kind": "书封",
+      "caption": "《台北人》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-015.jpg",
+      "sourcePage": "https://wapbaike.baidu.com/tashuo/browse/content?id=65ce85314fa533d32f3eeb1c",
+      "sourceTitle": "《金大班的最后一夜》：红灯将灭，酒微醺人欲醉，曲终人散话离别_百科TA说",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a60592391e4643f34349b023b0da3?x-bce-process=image%2Fformat%2Cf_auto",
+      "width": 500,
+      "height": 500,
+      "sha256": "6c38fece23fb5726ce2e0978febbde8b7089a3ab40b39229b1bbfae85f93bf0a",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-016"
+      ],
+      "work": "倾城之恋",
+      "kind": "书封",
+      "caption": "《倾城之恋》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-016.jpg",
+      "sourcePage": "https://book.kongfz.com/1099256/9435007950/",
+      "sourceTitle": "倾城之恋_张爱玲  著_孔夫子旧书网",
+      "imageUrl": "https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/ba97/ba97a1e310730075fedb0c5f821edc03_0_1_300_300.jpg",
+      "width": 409,
+      "height": 600,
+      "sha256": "f8424bb053775ec6311ffe9b10bfc1abdd5c2bbafe8b3015a07d31e89ef459c7",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-017"
+      ],
+      "work": "半生缘",
+      "kind": "书封",
+      "caption": "《半生缘》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-017.jpg",
+      "sourcePage": "https://yuyi.com.sg/products/9787530218648?srsltid=AfmBOoprzjaaye4bPDrbwiiDW2msMidRKwvO3SxcFgKN7kURmeF_PBrq",
+      "sourceTitle": "《张爱玲全集04：半生缘（精装典藏版） Half a Lifelong Romance》作者: 张爱玲 | Singapore Chinese Bookstore | Maha Yu Yi Pte Ltd",
+      "imageUrl": "https://yuyi.com.sg/cdn/shop/products/9787530218648.jpg?v=1601375536",
+      "width": 848,
+      "height": 1234,
+      "sha256": "ec8cc369e32ade3979df3c67fe2f614f458ac72e850135a44a65b16f37338ade",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-018"
+      ],
+      "work": "务虚笔记",
+      "kind": "书封",
+      "caption": "《务虚笔记》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-018.jpg",
+      "sourcePage": "https://weidubook.com/products/sku010245",
+      "sourceTitle": "务虚笔记-- 未读書店｜英国独立中文书店|weidubook",
+      "imageUrl": "https://weidubook.com/cdn/shop/files/SKU010245_e405da1f-8a63-4780-9ffd-1daa796bf1e8.jpg?v=1739617575",
+      "width": 1011,
+      "height": 1435,
+      "sha256": "eb0843d3d6ea1f72c4958d7371b7821395555831a1a414568b5eeb0d9fbc4282",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-019"
+      ],
+      "work": "一间自己的房间",
+      "kind": "书封",
+      "caption": "《一间自己的房间》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-019.jpg",
+      "sourcePage": "https://product.suning.com/0071512627/12441128002.html",
+      "sourceTitle": "《 一间自己的房间 伍尔夫文集瞿世镜译上海译文出版社 英国文学女性文学心灵觉醒鼓励女性独立成长 另著海浪/到文另集》弗吉尼亚·伍尔夫著 -苏宁易购图书",
+      "imageUrl": "https://imgservice.suning.cn/uimg1/b2c/image/W4m_2IK882OKMDO0J-3mkQ.jpg_800w_800h_4e_80Q_is",
+      "width": 800,
+      "height": 800,
+      "sha256": "180fcc893957af81cf47a2d46a5668c8db3421186a0f61e66235196f01561436",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-020"
+      ],
+      "work": "到灯塔去",
+      "kind": "书封",
+      "caption": "《到灯塔去》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-020.jpg",
+      "sourcePage": "https://book.kongfz.com/780488/7757332522/",
+      "sourceTitle": "到灯塔去_弗吉尼亚·伍尔夫 著_孔夫子旧书网",
+      "imageUrl": "https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/b7f4/b7f42c209f3aafaa1d359457229909f0_0_1_300_300.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "e6aba7fa064c0bd4206fca6029ab5b4ae7a688928eecf5f56257ddc5da9d6a2b",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-021"
+      ],
+      "work": "达洛维夫人",
+      "kind": "书封",
+      "caption": "《达洛维夫人》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-021.jpg",
+      "sourcePage": "https://wulolife.com/en/products/%E8%BE%BE%E6%B4%9B%E7%BB%B4%E5%A4%AB%E4%BA%BA-%E4%BD%9C%E8%80%85-%E8%8B%B1%E5%9B%BD-%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A-%E4%BC%8D%E5%B0%94%E5%A4%AB-%E5%87%BA%E7%89%88%E7%A4%BE-%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE",
+      "sourceTitle": "– WULOLIFE",
+      "imageUrl": "https://wulolife.com/cdn/shop/products/s33845388.jpg?v=1662022817",
+      "width": 708,
+      "height": 1000,
+      "sha256": "5f0fcfd483a1d7d6e2d76cbf73840644c66c093fe2cd12eb54c292f7762598ad",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-022"
+      ],
+      "work": "变形记",
+      "kind": "书封",
+      "caption": "《变形记》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-022.jpg",
+      "sourcePage": "https://book.kongfz.com/269228/8868189804/",
+      "sourceTitle": "变形记_卡夫卡  著_孔夫子旧书网",
+      "imageUrl": "https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/2ede/2edefe5ba074515c81a7dcf6b6f89420_0_1_300_300.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "afd44c0c8710c5d150c40e3a559431e54651ca2f0b745b5874a29450610b763f",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-023"
+      ],
+      "work": "审判",
+      "kind": "书封",
+      "caption": "《审判》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-023.jpg",
+      "sourcePage": "https://xinwen.bjd.com.cn/content/s668cae33e4b07fbcccad4832.html",
+      "sourceTitle": "卡夫卡逝世百年｜在不确定的时空中寻找存在的意义",
+      "imageUrl": "https://static.bjd.com.cn/dams-res/editing/image/202406/03/665d8386d5debd0103b49673.jpg",
+      "width": 1050,
+      "height": 1500,
+      "sha256": "44ecc998fddd1978262bf3372978dd1285933cb194235079b7399abaea51507e",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-024"
+      ],
+      "work": "局外人",
+      "kind": "书封",
+      "caption": "《局外人》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-024.jpg",
+      "sourcePage": "https://books.apple.com/us/book/%E5%B1%80%E5%A4%96%E4%BA%BA/id1029384270",
+      "sourceTitle": "‎局外人 by 阿尔贝·加缪 on Apple Books",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/98/e7/bc/98e7bce7-97cf-ca6f-9c68-df84ac74cf0e/9787533929671.jpg/1200x1200wz.jpg",
+      "width": 1200,
+      "height": 1229,
+      "sha256": "c2e771356a40e616ef07cc054a217dc7f3f4fc6b7cd78779c5f3fe0d4dd4f86d",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-025"
+      ],
+      "work": "鼠疫",
+      "kind": "书封",
+      "caption": "《鼠疫》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-025.jpg",
+      "sourcePage": "https://book.kongfz.com/6699/5673319112/",
+      "sourceTitle": "鼠疫_[法]阿尔贝·加缪 著；李玉民 译_孔夫子旧书网",
+      "imageUrl": "https://www0.kfzimg.com/sw/kfz-cos/kfzimg/aabadcef/35331cf5ee6926e6_n.jpg",
+      "width": 450,
+      "height": 600,
+      "sha256": "02de07c576dbaf324812444aa4373d8def422b9795bb9abbb5bfbe41f48a3362",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-026"
+      ],
+      "work": "百年孤独",
+      "kind": "书封",
+      "caption": "《百年孤独》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-026.jpg",
+      "sourcePage": "https://www.bookschina.com/7554065.htm",
+      "sourceTitle": "《百年孤独》 _中图网(原中图网)",
+      "imageUrl": "https://image12.bookschina.com/2017/20170828/7554065.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "489b79c737b4ff82554ab119f5c3af825e35747fa13f4324276f686f884defb1",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-027"
+      ],
+      "work": "霍乱时期的爱情",
+      "kind": "书封",
+      "caption": "《霍乱时期的爱情》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-027.jpg",
+      "sourcePage": "https://ferrybooks.com/products/%E9%9C%8D%E4%B9%B1%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85",
+      "sourceTitle": "– Ferry Books 野渡书店",
+      "imageUrl": "https://ferrybooks.com/cdn/shop/files/IMG_1437_e73674be-8f75-4fe0-a338-e21f95222d30.jpg?v=1713115585",
+      "width": 2917,
+      "height": 2917,
+      "sha256": "fb2f389ce62e8d295a64cd637a97ff7e812934731563de2e48bd27f96a6638e3",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-028"
+      ],
+      "work": "情人",
+      "kind": "书封",
+      "caption": "《情人》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-028.png",
+      "sourcePage": "https://amomentbooks.com/products/%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E4%B8%AD%E6%96%87%E4%B9%A6%E5%BA%97-%E6%9D%9C%E6%8B%89%E6%96%AF-%E6%83%85%E4%BA%BA",
+      "sourceTitle": "《情人》玛格丽特·杜拉斯 | 旦夕书店 AMOMENT BOOKS - 多伦多中文独立书店",
+      "imageUrl": "https://amomentbooks.com/cdn/shop/files/8369f78ff36b0d9ced966fcbfb0e3937.png?v=1734654570",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "98ee76e69c56b3ab848300e5db14b26e1d4dbd24a1d910126f1fba0a16c1466e",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-029"
+      ],
+      "work": "追忆似水年华",
+      "kind": "书封",
+      "caption": "《追忆似水年华》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-029.jpg",
+      "sourcePage": "https://www.thepaper.cn/newsDetail_forward_8993053",
+      "sourceTitle": "《追忆似水流年华》，一部读不下去的经典_澎湃号·湃客_澎湃新闻-The Paper",
+      "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/86/404/698.jpg",
+      "width": 500,
+      "height": 518,
+      "sha256": "540c7023c185c31cc39fa238e7d08c2d3659ea3d2273bba86fc3cc50e490dd4d",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-030"
+      ],
+      "work": "尤利西斯",
+      "kind": "书封",
+      "caption": "《尤利西斯》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-030.jpg",
+      "sourcePage": "https://book.kongfz.com/810477/7624921572/",
+      "sourceTitle": "尤利西斯 _[爱尔兰]詹姆斯·乔伊斯（James Joyce） 著_孔夫子旧书网",
+      "imageUrl": "https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/b14d/b14dc6e66820297dfe05afd6bf86907c_0_1_300_300.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "78ae469cbb0caea2c46dd1dc609ea39ecea59f875495200a0d1d920d14fc3c9e",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-031"
+      ],
+      "work": "都柏林人",
+      "kind": "书封",
+      "caption": "《都柏林人》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-031.jpg",
+      "sourcePage": "https://books.apple.com/us/book/%E9%83%BD%E6%9F%8F%E6%9E%97%E4%BA%BA/id1032840988",
+      "sourceTitle": "‎都柏林人 by 詹姆斯•乔伊斯 on Apple Books",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication2/v4/f0/88/56/f0885645-a4a6-681b-885e-019e937fb7d9/FLTCN_BLYGJMSQYS001.jpg/1200x1200wz.jpg",
+      "width": 1200,
+      "height": 1203,
+      "sha256": "69e7fbd4cc2223504639b14cc8bcda0297f5ee21b136139af16efc453c2d4ffd",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-032"
+      ],
+      "work": "了不起的盖茨比",
+      "kind": "书封",
+      "caption": "《了不起的盖茨比》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-032.jpg",
+      "sourcePage": "https://wulolife.com/en/products/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%9B%96%E8%8C%A8%E6%AF%94-%E7%B2%BE%E8%A3%85",
+      "sourceTitle": "– WULOLIFE",
+      "imageUrl": "https://wulolife.com/cdn/shop/products/s34139814.jpg?v=1675955300",
+      "width": 1000,
+      "height": 1453,
+      "sha256": "97007cf8e344d74754c0e8c8b53dbc46d54076811cfc905ec3865acc4ddc9cd0",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-033"
+      ],
+      "work": "麦田里的守望者",
+      "kind": "书封",
+      "caption": "《麦田里的守望者》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-033.jpg",
+      "sourcePage": "https://lib.zzjc.edu.cn/info/1035/1627.htm",
+      "sourceTitle": "《麦田里的守望者》-浙江工业大学之江学院图书馆",
+      "imageUrl": "https://lib.zzjc.edu.cn/__local/8/C3/04/3C519D95BF4B827823D1AD240ED_58D0CC09_9F52D.png?e=.png",
+      "width": 1001,
+      "height": 1334,
+      "sha256": "e6940c4beb38373605c380a3b62c65251aa05d77dce4e4f2c4b7affdd87ac2e0",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-034"
+      ],
+      "work": "钟形罩",
+      "kind": "书封",
+      "caption": "《钟形罩》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-034.jpg",
+      "sourcePage": "https://item.jd.com/10139256360091.html",
+      "sourceTitle": "京东验证",
+      "imageUrl": "https://img11.360buyimg.com/n1/s720x720_jfs/t1/259986/34/24384/44483/67be79ffF24c6ce98/bbd442e50d6ab96a.jpg",
+      "width": 720,
+      "height": 720,
+      "sha256": "1078f8e290a9fc05d30b96a1fbd4ae3835caefdd58e8d1a480620b7140de3f9a",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-035"
+      ],
+      "work": "第二性",
+      "kind": "书封",
+      "caption": "《第二性》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-035.jpg",
+      "sourcePage": "https://motatabooks.com/products/%E7%AC%AC%E4%BA%8C%E6%80%A7",
+      "sourceTitle": "– Motata Books",
+      "imageUrl": "https://motatabooks.com/cdn/shop/files/cover_9787532799930.jpg?v=1775396000",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "477649e2d1d45df17dce2c0ebba28838996c1a706ae446f9b8f7cff3909f8786",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-036"
+      ],
+      "work": "安娜·卡列尼娜",
+      "kind": "书封",
+      "caption": "《安娜·卡列尼娜》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-036.jpg",
+      "sourcePage": "https://www.mybookone.com.hk/static/detail_w/YWxsLnNhbGVJZC4xMjM5ODgzNjE1MDYxNTM2NzY5.html",
+      "sourceTitle": "[安娜．卡列尼娜（上）]| 一本 My Book One",
+      "imageUrl": "https://nrapp-prd.oss-cn-hongkong.aliyuncs.com/prod/9789863592112/9789863592112_bc_01.jpg?x-oss-process=image%2Fresize%2Cw_500",
+      "width": 500,
+      "height": 711,
+      "sha256": "7c7a2854f7dfcb1be8b2208aa25687fb6c0d0e58d9156e0af8a0593f5efa98cb",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-037"
+      ],
+      "work": "战争与和平",
+      "kind": "书封",
+      "caption": "《战争与和平》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-037.jpg",
+      "sourcePage": "https://books.apple.com/us/book/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/id670127784",
+      "sourceTitle": "‎战争与和平 by 托尔斯泰 on Apple Books",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication6/v4/8e/c1/02/8ec102ae-3a6e-6960-ec5b-aa768d3e60b3/cover.jpg/1200x675wz.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "a4b45b0c8b00211215d0bfad8addb29cc516083995f3c0390bfb9f40a5d01755",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-038"
+      ],
+      "work": "罪与罚",
+      "kind": "书封",
+      "caption": "《罪与罚》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-038.jpg",
+      "sourcePage": "https://wenxuanbookstore.com/products/9787533955168",
+      "sourceTitle": "– 文轩书苑",
+      "imageUrl": "https://wenxuanbookstore.com/cdn/shop/products/9787533955168-p1.jpg?v=1614950130",
+      "width": 800,
+      "height": 800,
+      "sha256": "e8602c7ff47f19d9a8d0607f0bbc68db3fbe0ef0c327fe68bb14e1425fdb6237",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-039"
+      ],
+      "work": "大师与玛格丽特",
+      "kind": "书封",
+      "caption": "《大师与玛格丽特》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-039.jpg",
+      "sourcePage": "https://m.bookschina.com/8766133.htm",
+      "sourceTitle": "《大师和玛格丽特》 _中图网(原中国图书网)",
+      "imageUrl": "https://image12.bookschina.com/2022/20220812/1/8766133.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "5de7e9e1a81e6059af9eafc43fb2d9b5e281737064642968a9d21ff136fd1ab0",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-040"
+      ],
+      "work": "哈姆雷特",
+      "kind": "书封",
+      "caption": "《哈姆雷特》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-040.webp",
+      "sourcePage": "https://tao.hooos.com/goods_NB6aBMbi5tGRxA6ZVkFxZRHRtB-d8ZBBDFpAVYRKKeun.html",
+      "sourceTitle": "正版图书  译文经典：哈姆雷特 莎士比亚经典戏剧 方平译 上海译文出版社_虎窝淘",
+      "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/684387459/O1CN01NKyUSS24yGrowN1Oi_%21%21684387459-0-lubanu-s.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "1172debada5b2862a64bf1abdf6380c01a13af2b0e995ede4700d39af2f58944",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-041"
+      ],
+      "work": "麦克白",
+      "kind": "书封",
+      "caption": "《麦克白》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-041.jpg",
+      "sourcePage": "https://www.lifeweek.com.cn/h5/article/detail?artId=143139",
+      "sourceTitle": "翻译家卞之琳｜真正的“节奏大师”",
+      "imageUrl": "https://zdimg.lifeweek.com.cn/bg/20211205/1638692120461mkmnh.jpg",
+      "width": 1504,
+      "height": 2570,
+      "sha256": "3aa29b7aeb72c0e31b2dee65ef8ee085667879867a8184055252df10567881ce",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-042"
+      ],
+      "work": "李尔王",
+      "kind": "书封",
+      "caption": "《李尔王》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-042.jpg",
+      "sourcePage": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=187784",
+      "sourceTitle": "如何不为钱发愁？",
+      "imageUrl": "https://zdimg.lifeweek.com.cn/bg/20221125/1669338914642exlpk.jpg",
+      "width": 800,
+      "height": 1038,
+      "sha256": "c2bd0b60965107cc5104239198dcb92494cf8e31fd570c62965bfa8db7e84431",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-043"
+      ],
+      "work": "伊利亚特",
+      "kind": "书封",
+      "caption": "《伊利亚特》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-043.png",
+      "sourcePage": "https://books.apple.com/us/book/%E4%BC%8A%E5%88%A9%E4%BA%9A%E7%89%B9/id1480661560",
+      "sourceTitle": "‎伊利亚特 by 荷马 on Apple Books",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/b6/60/44/b66044c5-a07d-5506-cb33-c4f51157cf07/9787532772230.jpg/1200x630wz.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "86ec26bed47e6b0c92a6e813f4ae8957d46e0ef70c8d02b4d9d86d96acb24436",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-044"
+      ],
+      "work": "奥德赛",
+      "kind": "书封",
+      "caption": "《奥德赛》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-044.jpg",
+      "sourcePage": "https://www.mybookone.com.hk/static/detail_w/YWxsLnNhbGVJZC4xMjQ1MzE4MDU1ODU0MTkwNTk0.html",
+      "sourceTitle": "[荷馬史詩──奧德賽]| 一本 My Book One",
+      "imageUrl": "https://nrapp-prd.oss-cn-hongkong.aliyuncs.com/prod/9789578423794/9789578423794_bc_01.jpg?w=150",
+      "width": 688,
+      "height": 980,
+      "sha256": "2a3f2dc8c0298c946f9b82711d687aca3614616d2bec95b6be4ade6a419e5bfd",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-045"
+      ],
+      "work": "神曲",
+      "kind": "书封",
+      "caption": "《神曲》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-045.jpg",
+      "sourcePage": "https://product.suning.com/0070067633/10565855064.html",
+      "sourceTitle": "《神曲》(意)但丁 著;王维克 译著 -苏宁易购图书",
+      "imageUrl": "https://imgservice.suning.cn/uimg1/b2c/image/0LOQ216StJb5q32SsX4Lqw.jpg_800w_800h_4e_80Q_is",
+      "width": 800,
+      "height": 800,
+      "sha256": "71a6519cdfb8e6d2e9ac3f1935f6c000b42bdf8c823c7e4b3ed6ad33269e36f6",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-046"
+      ],
+      "work": "圣经·最后的晚餐",
+      "kind": "绘画场景参考",
+      "caption": "达·芬奇《最后的晚餐》，作为《圣经》最后的晚餐叙事的绘画参考。",
+      "localPath": "./assets/reference-images/a-046.jpg",
+      "sourcePage": "https://lastatalenews.unimi.it/restauro-cenacolo-vinciano-milano-ricostruzione",
+      "sourceTitle": "Il restauro del Cenacolo Vinciano nella Milano della ricostruzione | La Statale News",
+      "imageUrl": "https://lastatalenews.unimi.it/sites/default/files/styles/paragraph_image/public/image/cover/cenacolo_interno.jpg?h=a5e86d8e&itok=FMTneUrB",
+      "width": 800,
+      "height": 573,
+      "sha256": "9e639eb287c035afdf1b9e2e303fb50ed2bfc5ef20935c0ff2532d6de7994367",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-047"
+      ],
+      "work": "源氏物语",
+      "kind": "书封",
+      "caption": "《源氏物语》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-047.png",
+      "sourcePage": "https://books.apple.com/br/book/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E/id1086555869",
+      "sourceTitle": "‎源氏物語 de Murasakishikibu no Apple Books",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication49/v4/9b/15/b6/9b15b670-d29b-ace4-9a42-f841524fa186/Cover_-.jpg/1200x630wz.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "4b2e200e3959105e041265327c187b8d05e468cbb285dceb08d5f45c24b207bb",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-048"
+      ],
+      "work": "枕草子",
+      "kind": "书封",
+      "caption": "《枕草子》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-048.jpg",
+      "sourcePage": "https://pifa.bookuu.com/detail.php?id=31972857",
+      "sourceTitle": "图书批发一站式图书批发平台 - 馆配图书平台 - 博库网批发平台",
+      "imageUrl": "https://images.bookuu.com/book_t/31/97/28/31972857-7029.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "b4c9010ed61f967281dc1df338a16dbed30c6e2616747a59c56ba58d11017f2f",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-049"
+      ],
+      "work": "我是猫",
+      "kind": "书封",
+      "caption": "《我是猫》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-049.jpg",
+      "sourcePage": "https://www.thepaper.cn/newsDetail_forward_8807893",
+      "sourceTitle": "林少华对谈李继宏：不存在100%对等的翻译_文化课_澎湃新闻-The Paper",
+      "imageUrl": "https://imagecloud.thepaper.cn/thepaper/image/84/127/994.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "16cc7091517eb8b688efb6720bc4a382a713d7a200d5e5620145c51d206efe90",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "A-050"
+      ],
+      "work": "厨房",
+      "kind": "书封",
+      "caption": "《厨房》书封（作品参考配图）",
+      "localPath": "./assets/reference-images/a-050.jpg",
+      "sourcePage": "https://lotengbookstore.easy.co/products/260122037",
+      "sourceTitle": "厨房 - 吉本芭娜娜 [Condition: A]  – Loteng Bookstore",
+      "imageUrl": "https://cdn.store-assets.com/s/1355898/i/98699599.jpg?width=480",
+      "width": 480,
+      "height": 640,
+      "sha256": "f4eba696923247a7f84bc7553e14416c4d5ea5a5e4428dd5709210461761e198",
+      "retrievedOn": "2026-11-18"
+    },
+    {
+      "ids": [
+        "C-011"
+      ],
+      "work": "内容审核夜班桌",
+      "kind": "纪录片工作场景",
+      "caption": "纪录片《The Cleaners》（2018）中的内容审核工作场景，作为该资料的相关配图。",
+      "localPath": "./assets/reference-images/c-011.jpg",
+      "sourcePage": "https://www.deutschlandfunkkultur.de/film-der-woche-the-cleaners-sie-putzen-das-internet-100.html",
+      "sourceTitle": "Film der Woche: \"The Cleaners\" - Sie putzen das Internet",
+      "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_a/8b/FILE_a8b83b268f48dd439e2db70b3aac7ef6/the-cleaners-gebrueder-beetz-filmproduktion-jpg-100-1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "fec0842e63017f8b4893955a01a556aa4ed8b1ace11a67d882e8a9724b7d64c1",
+      "retrievedOn": "2026-11-18"
+    }
+  ]
+}

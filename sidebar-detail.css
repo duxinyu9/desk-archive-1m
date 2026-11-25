@@ -1,0 +1,11 @@
+/* Right-hand archive details: compact titles, distinct reading groups. */
+#layout #right #obj-name{font-family:var(--library-body-font);font-size:16px;font-weight:700;line-height:1.35;letter-spacing:0;margin:0 0 28px;min-width:0}
+#layout #right #obj-name>.bi-zh{font-size:var(--sidebar-title-size,16px);line-height:1.35}
+#layout #right #obj-name>.bi-en,#layout #right #obj-name>.en-inline{font-size:var(--sidebar-title-size,12px)!important;font-weight:700!important;line-height:1.4!important;margin-top:4px!important}
+#layout #right #obj-name>[data-single-line="true"]{white-space:nowrap}
+#layout #right #obj-name>[data-single-line="false"]{white-space:normal;overflow-wrap:anywhere}
+#layout #right #obj-desc{font-family:var(--library-body-font);font-size:12px;line-height:1.7;white-space:normal;margin:0 0 24px;min-width:0;overflow-wrap:break-word}
+#layout #right #obj-desc>.bi-zh{line-height:1.7}
+#layout #right #obj-desc>.bi-en{margin-top:16px!important;font-size:12px!important;line-height:1.6!important}
+#layout #right #obj-desc p{margin:0}
+#layout #right #obj-desc p+p{margin-top:10px}
